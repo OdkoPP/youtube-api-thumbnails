@@ -1,0 +1,21 @@
+{
+  "name": "youtube-api-thumbnails",
+  "version": "1.0.1",
+  "description": "Requests Youtube API for all thumbnails related to Youtube Video IDs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdkoPP/youtube-api-thumbnails.git"
+  },
+  "keywords": [
+    "youtube",
+    "thumbnail",
+    "thumbnails"
+  ],
+  "author": "OdkoPP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OdkoPP/youtube-api-thumbnails/issues"
+  },
+  "homepage": "https://github.com/OdkoPP/youtube-api-thumbnails#readme"
+}
